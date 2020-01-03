@@ -18,7 +18,7 @@ Using CloudSploit a Cloud-based security and configuration scanner, I evaluated 
 
 #### Google Chrome DoD STIG
 
-![image-20200103025921943](/Users/spea/Library/Application Support/typora-user-images/image-20200103025921943.png)
+![image-20200103025921943](/image-20200103025921943.png)
 
 As a part of my IT System Auditing class, I was tasked with evaluating a Google Chrome DoD STIG and remediating a variety of CAT 1-3 vulnerabilties. With guidance from the DoD STIG, I was able to deploy GPO policies that hardened Google Chrome in alignment with DoD standards. 
 
