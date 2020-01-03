@@ -12,7 +12,7 @@ Hi my name is Shawn Pea and I'm currently a senior majoring in Cybersecurity at 
 
 #### AWS Compliance Audit (HIPAA)
 
-![image-20200103024823840](/Users/spea/Library/Application Support/typora-user-images/image-20200103024823840.png)
+![image-20200103024823840](/image-20200103024823840.png)
 
 Using CloudSploit a Cloud-based security and configuration scanner, I evaluated an AWS environment hosting a Windows Server 2016 and RHEL7 EC2 instance for HIPAA compliance. While compiling the scan results from the assessment, I was able to remediate several vulnerabilities and ensure HIPAA compliance. 
 
