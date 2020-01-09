@@ -13,10 +13,15 @@ Hi, my name is Shawn Pea and I'm currently a senior majoring in Cybersecurity at
 ## Technical Skills
 
 **System Tools:** *VMware ESXi, Active Directory, Group Policy Management, LAN Sweeper, RSA Console*
+
 **Security Tools:** *Tenable Nessus, CloudSploit, FOCA, Nmap, Metasploit, Wireshark,Sublist3r and more.*
+
 **IDS/IPS**: *Cisco Adaptive Security Appliance (ASA), Snort IDS/IPS, pfSense*
+
 **Linux:** *CentOS/RHEL, Ubuntu Server, Kali Linux, Fedora Server*
+
 **Networking:** *TCP/IP, IPv4/IPv6, DHCP, DNS, ARP, LDAP, SSH, IPSec, SSL/TLS*
+
 **Compliance Frameworks**: *NIST 800-53, PCI DSS, HIPAA, DoD STIGs*
 
 ## Academic & Personal Security Projects
