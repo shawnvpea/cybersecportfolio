@@ -24,5 +24,5 @@ As a part of my IT System Auditing class, I was tasked with evaluating a Google 
 
 #### Capital Region Advanced Cyber Range
 
-As a part of my securing operating systems and network security course, I was given access to a cyber range that allowed for the configuration and testing of several network security architectures. Through several hands-on course assignments, I was tasked with configuring and implementing network security appliances such as Cisco Adapative Security Appliance, Snort, StrongSwan and OpenVPN. Concluding my coursework in both classes, I was able to learn lots about firewall configurations and implementing site to stie VPN solutions.  
+As a part of my securing operating systems and network security course, I was given access to a cyber range that allowed for the configuration and testing of several network security architectures. Through several hands-on course assignments, I was tasked with configuring and implementing network security appliances such as Cisco Adapative Security Appliance, Snort, StrongSwan and OpenVPN. Concluding my coursework in both classes, I was able to learn lots about firewall configurations and implementing site to site VPN solutions.  
 
