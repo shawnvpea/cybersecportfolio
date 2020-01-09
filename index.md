@@ -1,6 +1,6 @@
 # 								Shawn Pea
 
-![avataaars](C:\Users\jawn\Downloads\avataaars.png)
+![avataaars](/sp-avatar.png)
 
 ​																Contact me: shawnvpea@gmail.com
 
